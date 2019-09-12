@@ -6,7 +6,7 @@ site_url: "https://www.megapython.org"
 
 # Repository
 repo_name: "megapython"
-repo_url: "https://github.com/squidfunk/mkdocs-material"
+repo_url: "https://github.com/megapython/megapython"
 
 # Copyright
 copyright: "Copyright &copy; 2019 Anil Kulkarni, Octallium Press."
