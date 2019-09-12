@@ -1,0 +1,71 @@
+# Project information
+site_name: "Mega Python"
+site_description: "Learn Python From Beginner to Advanced"
+site_author: "Anil Kulkarni"
+site_url: "https://www.megapython.org"
+
+# Repository
+repo_name: "megapython"
+repo_url: "https://github.com/squidfunk/mkdocs-material"
+
+# Copyright
+copyright: "Copyright &copy; 2019 Anil Kulkarni, Octallium Press."
+
+# Configuration
+theme:
+  name: "material"
+  language: "en"
+  logo: "images/megapython.png"
+  favicon: "images/megapython.png"
+  palette:
+    primary: "indigo"
+    accent: "indigo"
+  font:
+    text: "Roboto"
+    code: "Roboto Mono"
+  feature:
+    tabs: true
+
+# Customization
+extra:
+  manifest: "manifest.webmanifest"
+  social:
+    - type: "github"
+      link: "https://github.com/squidfunk"
+    - type: "twitter"
+      link: "https://twitter.com/squidfunk"
+    - type: "linkedin"
+      link: "https://linkedin.com/in/squidfunk"
+
+# Google Analytics
+google_analytics:
+  - "UA-XXXXXXXX-X"
+  - "auto"
+
+# Plugins
+plugins:
+  - search
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+      linenums: true
+  - toc:
+      permalink: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
