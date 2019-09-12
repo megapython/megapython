@@ -28,14 +28,16 @@ theme:
 
 # Customization
 extra:
-  manifest: "manifest.webmanifest"
+  # manifest: "manifest.webmanifest"
   social:
     - type: "github"
-      link: "https://github.com/squidfunk"
+      link: "https://github.com/megapython"
+    - type: "youtube"
+      link: "https://www.youtube.com/channel/UCptVl5nZtCcx9SPOCqPnj7A"
     - type: "twitter"
-      link: "https://twitter.com/squidfunk"
+      link: "https://twitter.com/megapythonorg"
     - type: "linkedin"
-      link: "https://linkedin.com/in/squidfunk"
+      link: "https://linkedin.com/company/megapython"
 
 # Google Analytics
 google_analytics:
