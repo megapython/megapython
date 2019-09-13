@@ -77,4 +77,6 @@ nav:
   - Home: "index.md"
   - Basics:
       - Introduction: "basics/introduction.md"
-  - Subscribe: "subscribe.md"
+  - Contact:
+      - Contact: "contact/contact.md"
+      - Subscribe: "contact/subscribe.md"
