@@ -77,8 +77,10 @@ nav:
   - Home: "index.md"
   - Basics:
       - Introduction: "basics/introduction.md"
+  - About:
+      - "About": "about/about.md"
+      - "Contributing Content": "about/contribution.md"
   - Contact:
       - Subscribe: "contact/subscribe.md"
       - Connect: "contact/contact.md"
       - Sponsorship: "contact/sponsorship.md"
-  - About: "about.md"
