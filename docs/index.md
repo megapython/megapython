@@ -85,7 +85,7 @@ Please contact for sponsoring the project.
 <img src="images/your-brand.jpeg" alt="Paypal" title="Paypal" width="75"/>
 <img src="images/your-brand.jpeg" alt="Paypal" title="Paypal" width="75"/>
 
-## Subscribe
+## Get Updates
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
@@ -115,3 +115,5 @@ Please contact for sponsoring the project.
 </div>
 
 <!--End mc_embed_signup-->
+
+Weekly updates about new content and articles, thats it!
