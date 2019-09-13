@@ -5,7 +5,7 @@ site_author: "Anil Kulkarni"
 site_url: "https://www.megapython.org"
 
 # Repository
-repo_name: "megapython"
+repo_name: "megapython/megapython"
 repo_url: "https://github.com/megapython/megapython"
 
 # Copyright
@@ -41,7 +41,7 @@ extra:
 
 # Google Analytics
 google_analytics:
-  - "UA-XXXXXXXX-X"
+  - "UA-121309781-2"
   - "auto"
 
 # Plugins
