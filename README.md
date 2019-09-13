@@ -66,6 +66,10 @@ You can also help by sharing any of the website content or by following/liking/s
 
 [Facebook](https://www.facebook.com/megapythonorg)
 
+## Contact
+
+connect [at] megapython dot org
+
 ## Sponsorship
 
 Please contact for sponsoring the project.
