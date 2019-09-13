@@ -34,11 +34,11 @@ Hi, my name is Anil Kulkarni and I am passionate about coding. I am a self learn
 
 ## Post Schedule
 
-I would be posting updates twice a week, on Tuesday & Thursday (IST).
+I would be posting updates twice a week, on Tuesday & Thursday (IST). Currently, there is no deadline for creating new articles, whatever I manage to finish will be pushed online.
 
 ## Contributing Content
 
-The entire project is open source and available on Github, including this website which is using Github Pages. You can star, fork or better send a pull request, all the updates would be reviewed and posted as per the schedule. Currently the project is using Mkdocs, but aim to move to Django Framework somewhere in future.
+The entire project is open source and available on Github, including this website which is using Github Pages. You can star, fork or better send a pull request, all the updates would be reviewed and posted as per the schedule. Currently the project is using Mkdocs, but aims to move to Django Framework somewhere in the future.
 
 ## Please Donate ❤️
 

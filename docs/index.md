@@ -67,3 +67,12 @@ You can also help by sharing any of the website content or by following/liking/s
 [LinkedIn](https://www.linkedin.com/company/megapython)
 
 [Facebook](https://www.facebook.com/megapythonorg)
+
+## Sponsorship
+
+Please contact for sponsoring the project.
+
+<img src="images/your-brand.jpeg" alt="Paypal" title="Paypal" width="75"/>
+<img src="images/your-brand.jpeg" alt="Paypal" title="Paypal" width="75"/>
+<img src="images/your-brand.jpeg" alt="Paypal" title="Paypal" width="75"/>
+<img src="images/your-brand.jpeg" alt="Paypal" title="Paypal" width="75"/>
