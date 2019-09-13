@@ -38,7 +38,7 @@ Hi, my name is {==Anil Kulkarni==} and I am passionate about coding. I am a self
 
 ## Post Schedule
 
-I would be posting updates twice a week, on Tuesday & Thursday (IST).
+I would be posting updates twice a week, on Tuesday & Thursday (IST). Currently, there is no deadline for creating new articles, whatever I manage to finish will be pushed online.
 
 ## Contributing Content
 

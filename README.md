@@ -2,6 +2,8 @@
 
 Learn to code in python 🐍 with free tutorials, videos, courses and projects to become a complete python developer.
 
+![Banner](./images/banner.png)
+
 ## Introduction
 
 **Mega Python** is an online ninja training school ⚔️ for the Python Enthusiast and dedicated to the programming toddlers. Start by learning how to hold basic Python chopsticks 🥢, then take the journey all the way to becoming a Python Zen Master 🐲.
@@ -38,7 +40,7 @@ I would be posting updates twice a week, on Tuesday & Thursday (IST). Currently,
 
 ## Contributing Content
 
-The entire project is open source and available on Github, including this website which is using Github Pages. You can star, fork or better send a pull request, all the updates would be reviewed and posted as per the schedule. Currently the project is using Mkdocs, but aims to move to Django Framework somewhere in the future.
+The entire project is open source and available on Github, including this website which is using Github Pages. You can star, fork or better send a pull request, all the updates would be reviewed and posted as per the schedule. Currently the project is using Mkdocs, but aim to move to Django Framework somewhere in future.
 
 ## Please Donate ❤️
 
@@ -46,7 +48,7 @@ All the work is provided free of cost and completely open source, but it needs y
 
 Any support is genuinely appreciated, you can help by sending a small donation by clicking the below link:
 
-[<img src="./docs/images/paypal-logo.png" alt="Paypal" title="Paypal" width="200"/>](https://www.paypal.me/octallium)
+[<img src="./images/paypal-logo.png" alt="Paypal" title="Paypal" width="200"/>](https://www.paypal.me/octallium)
 
 ## Links / Social Connect
 
@@ -63,3 +65,12 @@ You can also help by sharing any of the website content or by following/liking/s
 [LinkedIn](https://www.linkedin.com/company/megapython)
 
 [Facebook](https://www.facebook.com/megapythonorg)
+
+## Sponsorship
+
+Please contact for sponsoring the project.
+
+<img src="./images/your-brand.jpeg" alt="Paypal" title="Paypal" width="75"/>
+<img src="./images/your-brand.jpeg" alt="Paypal" title="Paypal" width="75"/>
+<img src="./images/your-brand.jpeg" alt="Paypal" title="Paypal" width="75"/>
+<img src="./images/your-brand.jpeg" alt="Paypal" title="Paypal" width="75"/>
