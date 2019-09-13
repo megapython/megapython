@@ -71,3 +71,9 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
+
+# Nav
+nav:
+  - Home: "index.md"
+  - Basics:
+      - Introduction: "basics/introduction.md"

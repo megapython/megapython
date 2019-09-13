@@ -1,3 +1,5 @@
+<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/855c4266d070e1fa933eae8f5/78a4be3f20f4598f36ed03876.js");</script>
+
 # Mega Python
 
 Learn to code in python 🐍 with free tutorials, videos, courses and projects to become a complete python developer.
