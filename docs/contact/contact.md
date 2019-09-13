@@ -10,6 +10,10 @@ I normally try to get back immediately or within 12 hrs of receiving the mail.
 
 You can always socially connect -
 
+[Github](https://www.github.com/megapython/megapython)
+
+[Youtube](https://www.youtube.com/channel/UCptVl5nZtCcx9SPOCqPnj7A)
+
 [Twitter](https://twitter.com/MegaPythonOrg)
 
 [LinkedIn](https://www.linkedin.com/company/megapython)
