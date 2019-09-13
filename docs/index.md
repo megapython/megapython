@@ -1,13 +1,16 @@
 # Mega Python
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
+Learn to code in python 🐍 with free tutorials, videos, courses and projects to become a complete python developer.
 
-## Commands
+<hr>
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+## Introduction
+
+**Mega Python** is an online ninja training school ⚔️ for the Python Enthusiast and dedicated to the programming toddlers. Start by learning how to hold basic Python chopsticks 🥢, then take the journey all the way to becoming a Python Zen Master 🐲 🐉.
+
+We don't make any assumption about your prior programming knowledge and try to teach everything from scratch.
+
+Let the force be with you!
 
 ## Project layout
 
