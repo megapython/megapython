@@ -2,6 +2,8 @@
 
 Learn to code in python 🐍 with free tutorials, videos, courses and projects to become a complete python developer.
 
+![Banner](images/banner.png)
+
 <hr>
 
 ## Introduction
