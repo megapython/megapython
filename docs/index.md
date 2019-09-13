@@ -34,6 +34,16 @@ def hello():
 
 Hi, my name is {==Anil Kulkarni==} and I am passionate about coding. I am a self learned programmer and enjoy my daily dose of Python & Go. When I am not coding you can usually find me watching movies 🎬
 
+## Post Schedule
+
+I would be posting updates twice a week, on Tuesday & Thursday (IST).
+
+## Contributing Content
+
+The entire project is open source and available on Github, including this website which is using Github Pages. You can star, fork or better send a pull request, all the updates would be reviewed and posted as per the schedule. Currently the project is using Mkdocs, but aim to move to Django Framework somewhere in future.
+
+<hr>
+
 ## Please Donate ❤️
 
 All the work is provided free of cost and completely open source, but it needs your support and love to keep the activity sustainable.
@@ -41,3 +51,19 @@ All the work is provided free of cost and completely open source, but it needs y
 Any support is genuinely appreciated, you can help by sending a small donation by clicking the below link:
 
 [<img src="images/paypal-logo.png" alt="Paypal" title="Paypal" width="200"/>](https://www.paypal.me/octallium)
+
+## Links / Social Connect
+
+You can also help by sharing any of the website content or by following/liking/sharing social media handles.
+
+[Website](https://www.megapython.org)
+
+[Github](https://www.github.com/megapython/megapython)
+
+[Youtube](https://www.youtube.com/channel/UCptVl5nZtCcx9SPOCqPnj7A)
+
+[Twitter](https://twitter.com/MegaPythonOrg)
+
+[LinkedIn](https://www.linkedin.com/company/megapython)
+
+[Facebook](https://www.facebook.com/megapythonorg)
