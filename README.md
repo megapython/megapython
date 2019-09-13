@@ -2,8 +2,6 @@
 
 Learn to code in python 🐍 with free tutorials, videos, courses and projects to become a complete python developer.
 
-<hr>
-
 ## Introduction
 
 **Mega Python** is an online ninja training school ⚔️ for the Python Enthusiast and dedicated to the programming toddlers. Start by learning how to hold basic Python chopsticks 🥢, then take the journey all the way to becoming a Python Zen Master 🐲.
@@ -41,8 +39,6 @@ I would be posting updates twice a week, on Tuesday & Thursday (IST).
 ## Contributing Content
 
 The entire project is open source and available on Github, including this website which is using Github Pages. You can star, fork or better send a pull request, all the updates would be reviewed and posted as per the schedule. Currently the project is using Mkdocs, but aim to move to Django Framework somewhere in future.
-
-<hr>
 
 ## Please Donate ❤️
 
