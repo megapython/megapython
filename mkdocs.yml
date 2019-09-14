@@ -9,7 +9,7 @@ repo_name: "megapython/megapython"
 repo_url: "https://github.com/megapython/megapython"
 
 # Copyright
-copyright: "Copyright &copy; 2019 Anil Kulkarni, Octallium Press."
+copyright: "Copyright &copy; 2019 Anil Kulkarni, Octallium Inc."
 
 # Configuration
 theme:
@@ -50,6 +50,7 @@ plugins:
 
 # Extensions
 markdown_extensions:
+  - meta
   - admonition
   - codehilite:
       guess_lang: false
