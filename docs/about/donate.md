@@ -7,4 +7,4 @@ Project like this require funding to maintain and generate content. Currently th
 
 You can donate by clicking on the link below:
 
-[<img src="./../images/paypal-logo.png" alt="Paypal" title="Paypal" width="200"/>](https://www.paypal.me/octallium)
+[<img src="../../images/paypal-logo.png" alt="Paypal" title="Paypal" width="200"/>](https://www.paypal.me/octallium)
