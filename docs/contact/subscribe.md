@@ -1,4 +1,7 @@
-Once a week updates about new content and articles, thats it!
+title: Subscribe to Mega Python
+description: Once a week update about new content and articles, thats it!
+
+Once a week update about new content and articles, thats it!
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">

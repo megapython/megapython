@@ -1,3 +1,6 @@
+title: Contributing to Mega Python
+description: Its really easy to start contributing, no technical skills ? No problem...
+
 # Contributing Content
 
 The entire project is open source and available on Github, including this website which is using Github Pages. You can star, fork or even better send a pull request, all of the updates would be reviewed and merged as per the schedule.

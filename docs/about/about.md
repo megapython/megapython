@@ -1,3 +1,6 @@
+title: About
+description: Get to know what drives Mega Python
+
 # About
 
 Hi, my name is {==Anil Kulkarni==} and I am passionate about coding. I am a self learned programmer and enjoy my daily dose of Python & Go. When I am not coding you can usually find me watching movies 🎬

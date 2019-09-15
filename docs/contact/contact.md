@@ -1,3 +1,6 @@
+title: Contact Us
+description: Get in touch with us
+
 # Contact
 
 Its always nice to hear from the community, please feel free to drop a mail to -
