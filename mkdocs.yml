@@ -78,6 +78,7 @@ nav:
   - Home: "index.md"
   - Basics:
       - Introduction: "basics/introduction.md"
+      - Installation: "basics/installation.md"
   - About:
       - "About": "about/about.md"
       - "Contributing Content": "about/contribution.md"
