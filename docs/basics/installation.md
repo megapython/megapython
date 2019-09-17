@@ -51,4 +51,76 @@ You can check it by typing the following on your terminal
 
 ## Installing on Linux
 
-TODO
+Installing Python 3.7 on Ubuntu.
+
+If you are using Ubuntu 19.04 Disco Dingo then you already have Python 3.7.3 pre-installed, just sit back and you can directly skip to "Setting Up Alias"
+
+For others, start by updating ubuntu, open your terminal and type the following -
+
+    sudo apt update
+    sudo apt install software-properties-common
+
+Add the repository
+
+    sudo add-apt-repository ppa:deadsnakes/ppa
+
+Install Python 3.7
+
+    sudo apt install python3.7
+
+## Checking Version
+
+You can check the installed python version.
+
+    python3 --version
+
+Python 3 also installs "pip3" by default, it is the package manager for python, you can check its version by
+
+    pip3 --version
+
+## Setting Up Alias (Optional)
+
+Since Python 2 comes pre-installed on almost all the operating systems, the default {==python==} keyword points to Python 2, for using Python 3 we need to type {==python3==}, which for me gets a little boring and unintuitive since Python 2 will be reaching its end of life soon.
+
+So, I just setup a alias, which simply means that, I say to my computer, "Whenever I type {==python==} it has to refer to Python 3 and not to Python 2".
+
+To setup a alias open your terminal and navigate to your home directory
+
+    cd
+
+If you are using bash, open the bash_profile, since I am using Visual Studio Code, I can directly open the file by typing
+
+    code .bash_profile
+
+If you are using atom, you can open by
+
+    atom .bash_profile
+
+Or if you are using PyCharm
+
+    charm .bash_profile
+
+Instead of bash if you are using zsh, you can open .zshrc
+
+    code .zshrc
+
+Add the following 2 lines at the end of the file
+
+    alias python='python3'
+    alias pip='pip3'
+
+Now close and restart your terminal, to check if its working properly type the following
+
+    python --version
+
+It should show the current Python 3 installed version.
+
+## Setting up your development environment and code editor
+
+(External Links)
+
+Excellent environment setup videos by Corey Schafer -
+
+[For Windows](https://www.youtube.com/watch?v=-nh9rCzPJ20)
+
+[For MacOS](https://www.youtube.com/watch?v=06I63_p-2A4)
