@@ -406,6 +406,27 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#checking-version" class="md-nav__link">
+    Checking Version
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#setting-up-alias-optional" class="md-nav__link">
+    Setting Up Alias (Optional)
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#setting-up-your-development-environment-and-code-editor" class="md-nav__link">
+    Setting up your development environment and code editor
+  </a>
+  
+</li>
+      
       
       
       
@@ -583,6 +604,27 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#checking-version" class="md-nav__link">
+    Checking Version
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#setting-up-alias-optional" class="md-nav__link">
+    Setting Up Alias (Optional)
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#setting-up-your-development-environment-and-code-editor" class="md-nav__link">
+    Setting up your development environment and code editor
+  </a>
+  
+</li>
+      
       
       
       
@@ -648,7 +690,82 @@
 </td></tr></table>
 
 <h2 id="installing-on-linux">Installing on Linux<a class="headerlink" href="#installing-on-linux" title="Permanent link">&para;</a></h2>
-<p>TODO</p>
+<p>Installing Python 3.7 on Ubuntu.</p>
+<p>If you are using Ubuntu 19.04 Disco Dingo then you already have Python 3.7.3 pre-installed, just sit back and you can directly skip to "Setting Up Alias"</p>
+<p>For others, start by updating ubuntu, open your terminal and type the following -</p>
+<table class="codehilitetable"><tr><td class="linenos"><div class="linenodiv"><pre>1
+2</pre></div></td><td class="code"><div class="codehilite"><pre><span></span>sudo apt update
+sudo apt install software-properties-common
+</pre></div>
+</td></tr></table>
+
+<p>Add the repository</p>
+<table class="codehilitetable"><tr><td class="linenos"><div class="linenodiv"><pre>1</pre></div></td><td class="code"><div class="codehilite"><pre><span></span>sudo add-apt-repository ppa:deadsnakes/ppa
+</pre></div>
+</td></tr></table>
+
+<p>Install Python 3.7</p>
+<table class="codehilitetable"><tr><td class="linenos"><div class="linenodiv"><pre>1</pre></div></td><td class="code"><div class="codehilite"><pre><span></span>sudo apt install python3.7
+</pre></div>
+</td></tr></table>
+
+<h2 id="checking-version">Checking Version<a class="headerlink" href="#checking-version" title="Permanent link">&para;</a></h2>
+<p>You can check the installed python version.</p>
+<table class="codehilitetable"><tr><td class="linenos"><div class="linenodiv"><pre>1</pre></div></td><td class="code"><div class="codehilite"><pre><span></span>python3 --version
+</pre></div>
+</td></tr></table>
+
+<p>Python 3 also installs "pip3" by default, it is the package manager for python, you can check its version by</p>
+<table class="codehilitetable"><tr><td class="linenos"><div class="linenodiv"><pre>1</pre></div></td><td class="code"><div class="codehilite"><pre><span></span>pip3 --version
+</pre></div>
+</td></tr></table>
+
+<h2 id="setting-up-alias-optional">Setting Up Alias (Optional)<a class="headerlink" href="#setting-up-alias-optional" title="Permanent link">&para;</a></h2>
+<p>Since Python 2 comes pre-installed on almost all the operating systems, the default <mark class="critic">python</mark> keyword points to Python 2, for using Python 3 we need to type <mark class="critic">python3</mark>, which for me gets a little boring and unintuitive since Python 2 will be reaching its end of life soon.</p>
+<p>So, I just setup a alias, which simply means that, I say to my computer, "Whenever I type <mark class="critic">python</mark> it has to refer to Python 3 and not to Python 2".</p>
+<p>To setup a alias open your terminal and navigate to your home directory</p>
+<table class="codehilitetable"><tr><td class="linenos"><div class="linenodiv"><pre>1</pre></div></td><td class="code"><div class="codehilite"><pre><span></span>cd
+</pre></div>
+</td></tr></table>
+
+<p>If you are using bash, open the bash_profile, since I am using Visual Studio Code, I can directly open the file by typing</p>
+<table class="codehilitetable"><tr><td class="linenos"><div class="linenodiv"><pre>1</pre></div></td><td class="code"><div class="codehilite"><pre><span></span>code .bash_profile
+</pre></div>
+</td></tr></table>
+
+<p>If you are using atom, you can open by</p>
+<table class="codehilitetable"><tr><td class="linenos"><div class="linenodiv"><pre>1</pre></div></td><td class="code"><div class="codehilite"><pre><span></span>atom .bash_profile
+</pre></div>
+</td></tr></table>
+
+<p>Or if you are using PyCharm</p>
+<table class="codehilitetable"><tr><td class="linenos"><div class="linenodiv"><pre>1</pre></div></td><td class="code"><div class="codehilite"><pre><span></span>charm .bash_profile
+</pre></div>
+</td></tr></table>
+
+<p>Instead of bash if you are using zsh, you can open .zshrc</p>
+<table class="codehilitetable"><tr><td class="linenos"><div class="linenodiv"><pre>1</pre></div></td><td class="code"><div class="codehilite"><pre><span></span>code .zshrc
+</pre></div>
+</td></tr></table>
+
+<p>Add the following 2 lines at the end of the file</p>
+<table class="codehilitetable"><tr><td class="linenos"><div class="linenodiv"><pre>1
+2</pre></div></td><td class="code"><div class="codehilite"><pre><span></span>alias python=&#39;python3&#39;
+alias pip=&#39;pip3&#39;
+</pre></div>
+</td></tr></table>
+
+<p>Now close and restart your terminal, to check if its working properly type the following</p>
+<table class="codehilitetable"><tr><td class="linenos"><div class="linenodiv"><pre>1</pre></div></td><td class="code"><div class="codehilite"><pre><span></span>python --version
+</pre></div>
+</td></tr></table>
+
+<p>It should show the current Python 3 installed version.</p>
+<h2 id="setting-up-your-development-environment-and-code-editor">Setting up your development environment and code editor<a class="headerlink" href="#setting-up-your-development-environment-and-code-editor" title="Permanent link">&para;</a></h2>
+<p>(External Links)</p>
+<p>Excellent environment setup videos by Corey Schafer -</p>
+<p><a href="https://www.youtube.com/watch?v=-nh9rCzPJ20">For Windows</a></p>
+<p><a href="https://www.youtube.com/watch?v=06I63_p-2A4">For MacOS</a></p>
                 
                   
                 
