@@ -7,7 +7,7 @@ description: Learn to code in Python 3 🐍 with free tutorials, videos, courses
 
 Learn to code in Python 3 🐍 with free tutorials, videos, courses and projects to become a complete python developer.
 
-![Banner](images/banner.png)
+![Banner](./images/banner.png)
 
 <hr>
 
