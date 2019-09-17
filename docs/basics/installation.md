@@ -124,3 +124,11 @@ Excellent environment setup videos by Corey Schafer -
 [For Windows](https://www.youtube.com/watch?v=-nh9rCzPJ20)
 
 [For MacOS](https://www.youtube.com/watch?v=06I63_p-2A4)
+
+## Please Consider a Donation ❤️
+
+All the work is provided free of cost and completely open source, but it needs your support and love to keep the activity sustainable.
+
+Any support is genuinely appreciated, you can help by sending a small donation by clicking the below link:
+
+[<img src="../../images/paypal-logo.png" alt="Paypal" title="Paypal" width="200"/>](https://www.paypal.me/octallium)

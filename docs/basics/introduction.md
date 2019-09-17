@@ -50,3 +50,11 @@ Almost everyone uses python, from big companies like Google, Facebook, Dropbox, 
 Mega Python aims to teach Python 3 right from basics to advanced. Ofcouse, its not possible to cover everything that python has to offer, but it will surely teach you enough to get started on your own.
 
 Along with the language itself, Mega Python also aims to introduce topics in web development, analytics, machine learning and AI.
+
+## Please Consider a Donation ❤️
+
+All the work is provided free of cost and completely open source, but it needs your support and love to keep the activity sustainable.
+
+Any support is genuinely appreciated, you can help by sending a small donation by clicking the below link:
+
+[<img src="../../images/paypal-logo.png" alt="Paypal" title="Paypal" width="200"/>](https://www.paypal.me/octallium)
