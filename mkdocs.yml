@@ -79,6 +79,7 @@ nav:
   - Basics:
       - Introduction: "basics/introduction.md"
       - Installation: "basics/installation.md"
+      - Variables: "basics/variables.md"
   - About:
       - "About": "about/about.md"
       - "Contributing Content": "about/contribution.md"
