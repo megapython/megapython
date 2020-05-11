@@ -1,14 +1,24 @@
-title: About
+title: About Me
 description: Get to know what drives Mega Python
 
 # About
 
-Hi, my name is {==Anil Kulkarni==} and I am passionate about coding. I am a self learned programmer and enjoy my daily dose of Python & Go. When I am not coding you can usually find me watching movies 🎬
+![Banner](../images/pages/anil-kulkarni-octallium.jpg)
 
-## Post Schedule
+Hi, my name is **Anil Kulkarni** and I am passionate about coding. I am a self learned programmer and enjoy my daily dose of coding. When I am not coding you can usually find me watching movies 🎬
 
-I would be posting updates twice a week, on Tuesday & Thursday (IST). Currently, there is no deadline for creating new articles, whatever I manage to finish will be pushed online.
+## Background
+
+I have done my **Mechanical Engineering** and then completed **Masters In Marketing Management**, I was always passionate about creating things, my last venture was making "Handmade Soaps" and while making e-commerce website for it, coding bug caught up with me and I have been learning programming ever since.
+
+I am still a beginner and try to share whatever I learn. I am open to any new opportunities, you can checkout my profile at -
+
+[LinkedIn](https://www.linkedin.com/in/anilkulkarni22/)
+
+[Github](https://github.com/evolutionengine/)
+
+You can contact me on - anil.kulkarni [at] gmail com
 
 ## Motivation
 
-As a beginner I really struggled to find the right sources for learning Python and ended up taking a lot of free and paid online courses, which finally ended up in confusion and frustration. So I decided to write a simple to understand, beginner oriented resources for learning Python.
+As a beginner I really struggled to find the right sources for learning and ended up taking a lot of free and paid online courses, which finally ended up in confusion and frustration. So I decided to write a simple to understand, beginner oriented resources for learning how to program.

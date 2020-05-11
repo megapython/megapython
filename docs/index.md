@@ -1,13 +1,15 @@
-title: Welcome to Mega Python
+title: Welcome to Mega Python!
 description: Learn to code in Python 3 🐍 with free tutorials, videos, courses and projects to become a complete python developer.
 
 <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/855c4266d070e1fa933eae8f5/78a4be3f20f4598f36ed03876.js");</script>
 
 # Mega Python
 
-Learn to code in Python 3 🐍 with free tutorials, videos, courses and projects to become a complete python developer.
+![Banner](./images/pages/mega_python_website_banner.png)
 
-![Banner](./images/banner.png)
+**Python For Everyone!** Python is a simple yet powerful programming language which is easy to learn. Python gives you the power to create a wide range of applications and is used for Automation, Web Development, Analytics, Machine Learning, AI, Raspberry Pi, etc.
+
+Learn to code in **Python** 🐍 with our easy to understand tutorials, videos, courses and projects to become a complete python developer.
 
 <hr>
 
@@ -30,7 +32,7 @@ All code will be in the form of following block
 ```python
 # python code
 def hello():
-    print('Hello World')
+    print('Hello, World!')
 ```
 
 <hr>

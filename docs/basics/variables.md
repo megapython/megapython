@@ -1,5 +1,5 @@
 title: Variables
-description: Learn how to create variables in Python 3
+description: Learn How To Create Variables In Python.
 
 # Variables
 
@@ -37,7 +37,7 @@ $ cd /Users/{your username}/Desktop
 In order to run the file, type the following in your terminal -
 
 ```bash
-$ python3 variables.py
+$ python variables.py
 ```
 
 Output will be as follows -

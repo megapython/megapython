@@ -4,12 +4,12 @@ site_description: "Learn Python From Beginner to Advanced"
 site_author: "Anil Kulkarni"
 site_url: "https://www.megapython.org"
 
-# Repository
-repo_name: "megapython/megapython"
-repo_url: "https://github.com/megapython/megapython"
+# # Repository
+# repo_name: "megapython/megapython"
+# repo_url: "https://github.com/megapython/megapython"
 
 # Copyright
-copyright: "Copyright &copy; 2019 Anil Kulkarni, Octallium Inc."
+copyright: "Copyright &copy; 2020 Anil Kulkarni, Octallium Inc."
 
 # Configuration
 theme:
@@ -18,10 +18,10 @@ theme:
   logo: "images/megapython.png"
   favicon: "images/megapython.png"
   palette:
-    primary: "indigo"
+    primary: "white"
     accent: "indigo"
   font:
-    text: "Roboto"
+    text: "IBM Plex Sans"
     code: "Roboto Mono"
   feature:
     tabs: true
@@ -30,12 +30,12 @@ theme:
 extra:
   # manifest: "manifest.webmanifest"
   social:
-    - type: "github"
-      link: "https://github.com/megapython"
+    # - type: "github"
+    #   link: "https://github.com/megapython"
     - type: "youtube"
-      link: "https://www.youtube.com/channel/UCptVl5nZtCcx9SPOCqPnj7A"
+      link: "https://www.youtube.com/channel/UCptVl5nZtCcx9SPOCqPnj7A?sub_confirmation=1"
     - type: "twitter"
-      link: "https://twitter.com/megapythonorg"
+      link: "https://twitter.com/mega_python"
     - type: "linkedin"
       link: "https://linkedin.com/company/megapython"
 
@@ -76,15 +76,57 @@ markdown_extensions:
 # Nav
 nav:
   - Home: "index.md"
+  - About:
+      - "About": "about/about.md"
+      # - "Contributing Content": "about/contribution.md"
+  - Donate:
+      - Donate: "donate.md"
   - Basics:
       - Introduction: "basics/introduction.md"
       - Installation: "basics/installation.md"
       - Variables: "basics/variables.md"
-  - About:
-      - "About": "about/about.md"
-      - "Contributing Content": "about/contribution.md"
-      - Donate: "about/donate.md"
-      - Sponsorship: "about/sponsorship.md"
+      - "Data Types": "basics/data-types.md"
+      - Functions: "basics/functions.md"
+      - "If Else": "basics/if-else.md"
+      - "Static Typing": "basics/static-typing.md"
+      - List: "basics/list.md"
+      - Loops: "basics/loops.md"
+      - Strings: "basics/strings.md"
+      - Dictionary: "basics/dictionary.md"
+      - Tuple: "basics/tuple.md"
+      - Set: "basics/set.md"
+      - Packages: "basics/packages.md"
+      - "Object Oriented Programming": "basics/oop.md"
+      - "File Handling": "basics/file-handling.md"
+      - "Error Handling": "basics/error-handling.md"
+  - Intermediate:
+      - Introduction: "intermediate/introduction.md"
+      - "List Comprehensions": "intermediate/list-comprehensions.md"
+      - Lambda: "intermediate/lambda.md"
+      - "Magic Methods": "intermediate/magic-methods.md"
+      - "ABC Class": "intermediate/abc-class.md"
+      - "Multi Threading": "intermediate/multi-threading.md"
+      - "Async Await": "intermediate/async-await.md"
+      - "Generators and Iterators": "intermediate/generators-iterators.md"
+      - Testing: "intermediate/testing.md"
+      - "Named Tuple": "intermediate/named-tuple.md"
+      - "Functional Programming": "intermediate/functional-programming.md"
+      - "Command Line Applications": "intermediate/cli.md"
+      - "Regular Expressions": "intermediate/regular-expression.md"
+      - Database: "intermediate/database.md"
+      - Logging: "intermediate/logging.md"
+      - "Introduction to HTTP": "intermediate/intro-http.md"
+  - Django:
+      - Introduction: "django/introduction.md"
+      - Basics:
+          - "Virutal Environment": "django/basics/virtual_environment.md"
+          - Installation: "django/basics/installation.md"
+      - "Django Rest Framework":
+          - Introduction: "django/rest_framework/introduction.md"
+  - Courses:
+      - Courses: "courses/courses.md"
+
+  - Subscribe:
+      - Subscribe: "subscribe.md"
   - Contact:
-      - Subscribe: "contact/subscribe.md"
-      - Connect: "contact/contact.md"
+      - Contact: "contact/contact.md"

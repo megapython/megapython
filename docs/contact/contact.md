@@ -5,7 +5,7 @@ description: Get in touch with us
 
 Its always nice to hear from the community, please feel free to drop a mail to -
 
-connect [at] megapython (dot) org
+megapythonofficial [at] gmail (dot) com
 
 I normally try to get back immediately or within 12 hrs of receiving the mail.
 
@@ -13,12 +13,8 @@ I normally try to get back immediately or within 12 hrs of receiving the mail.
 
 You can always socially connect -
 
-[Github](https://www.github.com/megapython/megapython)
+[Youtube](https://www.youtube.com/channel/UCptVl5nZtCcx9SPOCqPnj7A?sub_confirmation=1)
 
-[Youtube](https://www.youtube.com/channel/UCptVl5nZtCcx9SPOCqPnj7A)
-
-[Twitter](https://twitter.com/MegaPythonOrg)
+[Twitter](https://twitter.com/mega_python)
 
 [LinkedIn](https://www.linkedin.com/company/megapython)
-
-[Facebook](https://www.facebook.com/megapythonorg)

@@ -53,7 +53,7 @@ You can check it by typing the following on your terminal
 
 Installing Python 3.7 on Ubuntu.
 
-If you are using Ubuntu 19.04 Disco Dingo then you already have Python 3.7.3 pre-installed, just sit back and you can directly skip to "Setting Up Alias"
+If you are using Ubuntu 19.04 Disco Dingo then you already have Python 3.7.3 pre-installed.
 
 For others, start by updating ubuntu, open your terminal and type the following -
 
@@ -80,7 +80,7 @@ Python 3 also installs "pip3" by default, it is the package manager for python, 
 
 ## Setting Up Alias (Optional)
 
-Since Python 2 comes pre-installed on almost all the operating systems, the default {==python==} keyword points to Python 2, for using Python 3 we need to type {==python3==}, which for me gets a little boring and unintuitive since Python 2 will be reaching its end of life soon.
+Since Python 2 comes pre-installed on almost all the operating systems, the default {==python==} keyword points to Python 2, for using Python 3 we need to type {==python3==}, which for me gets a little boring and unintuitive.
 
 So, I just setup a alias, which simply means that, I say to my computer, "Whenever I type {==python==} it has to refer to Python 3 and not to Python 2".
 
@@ -88,17 +88,9 @@ To setup a alias open your terminal and navigate to your home directory
 
     cd
 
-If you are using bash, open the bash_profile, since I am using Visual Studio Code, I can directly open the file by typing
+If you are using bash, open the .bash_profile, if .bash_profile is not present you can create and edit it, since I am using Visual Studio Code, I can directly open the file by typing
 
     code .bash_profile
-
-If you are using atom, you can open by
-
-    atom .bash_profile
-
-Or if you are using PyCharm
-
-    charm .bash_profile
 
 Instead of bash if you are using zsh, you can open .zshrc
 
