@@ -272,6 +272,19 @@
   
     <li class="md-tabs__item">
       
+        <a href="../../courses/courses/" class="md-tabs__link">
+          Courses
+        </a>
+      
+    </li>
+  
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
         <a href="../../subscribe/" class="md-tabs__link">
           Subscribe
         </a>
@@ -1056,10 +1069,46 @@
       <input class="md-toggle md-nav__toggle" data-md-toggle="nav-7" type="checkbox" id="nav-7">
     
     <label class="md-nav__link" for="nav-7">
-      Subscribe
+      Courses
     </label>
     <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
       <label class="md-nav__title" for="nav-7">
+        Courses
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../courses/courses/" title="Courses" class="md-nav__link">
+      Courses
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-8" type="checkbox" id="nav-8">
+    
+    <label class="md-nav__link" for="nav-8">
+      Subscribe
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-8">
         Subscribe
       </label>
       <ul class="md-nav__list" data-md-scrollfix>
@@ -1089,13 +1138,13 @@
 
   <li class="md-nav__item md-nav__item--nested">
     
-      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-8" type="checkbox" id="nav-8">
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-9" type="checkbox" id="nav-9">
     
-    <label class="md-nav__link" for="nav-8">
+    <label class="md-nav__link" for="nav-9">
       Contact
     </label>
     <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
-      <label class="md-nav__title" for="nav-8">
+      <label class="md-nav__title" for="nav-9">
         Contact
       </label>
       <ul class="md-nav__list" data-md-scrollfix>
@@ -1251,7 +1300,7 @@
 
 <h2 id="installing-on-linux">Installing on Linux<a class="headerlink" href="#installing-on-linux" title="Permanent link">&para;</a></h2>
 <p>Installing Python 3.7 on Ubuntu.</p>
-<p>If you are using Ubuntu 19.04 Disco Dingo then you already have Python 3.7.3 pre-installed, just sit back and you can directly skip to "Setting Up Alias"</p>
+<p>If you are using Ubuntu 19.04 Disco Dingo then you already have Python 3.7.3 pre-installed.</p>
 <p>For others, start by updating ubuntu, open your terminal and type the following -</p>
 <table class="codehilitetable"><tr><td class="linenos"><div class="linenodiv"><pre>1
 2</pre></div></td><td class="code"><div class="codehilite"><pre><span></span>sudo apt update
@@ -1281,25 +1330,15 @@ sudo apt install software-properties-common
 </td></tr></table>
 
 <h2 id="setting-up-alias-optional">Setting Up Alias (Optional)<a class="headerlink" href="#setting-up-alias-optional" title="Permanent link">&para;</a></h2>
-<p>Since Python 2 comes pre-installed on almost all the operating systems, the default <mark class="critic">python</mark> keyword points to Python 2, for using Python 3 we need to type <mark class="critic">python3</mark>, which for me gets a little boring and unintuitive since Python 2 will be reaching its end of life soon.</p>
+<p>Since Python 2 comes pre-installed on almost all the operating systems, the default <mark class="critic">python</mark> keyword points to Python 2, for using Python 3 we need to type <mark class="critic">python3</mark>, which for me gets a little boring and unintuitive.</p>
 <p>So, I just setup a alias, which simply means that, I say to my computer, "Whenever I type <mark class="critic">python</mark> it has to refer to Python 3 and not to Python 2".</p>
 <p>To setup a alias open your terminal and navigate to your home directory</p>
 <table class="codehilitetable"><tr><td class="linenos"><div class="linenodiv"><pre>1</pre></div></td><td class="code"><div class="codehilite"><pre><span></span>cd
 </pre></div>
 </td></tr></table>
 
-<p>If you are using bash, open the bash_profile, since I am using Visual Studio Code, I can directly open the file by typing</p>
+<p>If you are using bash, open the .bash_profile, if .bash_profile is not present you can create and edit it, since I am using Visual Studio Code, I can directly open the file by typing</p>
 <table class="codehilitetable"><tr><td class="linenos"><div class="linenodiv"><pre>1</pre></div></td><td class="code"><div class="codehilite"><pre><span></span>code .bash_profile
-</pre></div>
-</td></tr></table>
-
-<p>If you are using atom, you can open by</p>
-<table class="codehilitetable"><tr><td class="linenos"><div class="linenodiv"><pre>1</pre></div></td><td class="code"><div class="codehilite"><pre><span></span>atom .bash_profile
-</pre></div>
-</td></tr></table>
-
-<p>Or if you are using PyCharm</p>
-<table class="codehilitetable"><tr><td class="linenos"><div class="linenodiv"><pre>1</pre></div></td><td class="code"><div class="codehilite"><pre><span></span>charm .bash_profile
 </pre></div>
 </td></tr></table>
 
