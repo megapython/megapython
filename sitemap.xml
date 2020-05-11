@@ -6,6 +6,16 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
+     <loc>https://www.megapython.org/about/about/</loc>
+     <lastmod>2020-05-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.megapython.org/donate/</loc>
+     <lastmod>2020-05-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
      <loc>https://www.megapython.org/basics/introduction/</loc>
      <lastmod>2020-05-11</lastmod>
      <changefreq>daily</changefreq>
@@ -21,27 +31,177 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://www.megapython.org/about/about/</loc>
+     <loc>https://www.megapython.org/basics/data-types/</loc>
      <lastmod>2020-05-11</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://www.megapython.org/about/contribution/</loc>
+     <loc>https://www.megapython.org/basics/functions/</loc>
      <lastmod>2020-05-11</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://www.megapython.org/about/donate/</loc>
+     <loc>https://www.megapython.org/basics/if-else/</loc>
      <lastmod>2020-05-11</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://www.megapython.org/about/sponsorship/</loc>
+     <loc>https://www.megapython.org/basics/static-typing/</loc>
      <lastmod>2020-05-11</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://www.megapython.org/contact/subscribe/</loc>
+     <loc>https://www.megapython.org/basics/list/</loc>
+     <lastmod>2020-05-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.megapython.org/basics/loops/</loc>
+     <lastmod>2020-05-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.megapython.org/basics/strings/</loc>
+     <lastmod>2020-05-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.megapython.org/basics/dictionary/</loc>
+     <lastmod>2020-05-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.megapython.org/basics/tuple/</loc>
+     <lastmod>2020-05-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.megapython.org/basics/set/</loc>
+     <lastmod>2020-05-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.megapython.org/basics/packages/</loc>
+     <lastmod>2020-05-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.megapython.org/basics/oop/</loc>
+     <lastmod>2020-05-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.megapython.org/basics/file-handling/</loc>
+     <lastmod>2020-05-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.megapython.org/basics/error-handling/</loc>
+     <lastmod>2020-05-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.megapython.org/intermediate/introduction/</loc>
+     <lastmod>2020-05-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.megapython.org/intermediate/list-comprehensions/</loc>
+     <lastmod>2020-05-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.megapython.org/intermediate/lambda/</loc>
+     <lastmod>2020-05-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.megapython.org/intermediate/magic-methods/</loc>
+     <lastmod>2020-05-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.megapython.org/intermediate/abc-class/</loc>
+     <lastmod>2020-05-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.megapython.org/intermediate/multi-threading/</loc>
+     <lastmod>2020-05-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.megapython.org/intermediate/async-await/</loc>
+     <lastmod>2020-05-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.megapython.org/intermediate/generators-iterators/</loc>
+     <lastmod>2020-05-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.megapython.org/intermediate/testing/</loc>
+     <lastmod>2020-05-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.megapython.org/intermediate/named-tuple/</loc>
+     <lastmod>2020-05-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.megapython.org/intermediate/functional-programming/</loc>
+     <lastmod>2020-05-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.megapython.org/intermediate/cli/</loc>
+     <lastmod>2020-05-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.megapython.org/intermediate/regular-expression/</loc>
+     <lastmod>2020-05-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.megapython.org/intermediate/database/</loc>
+     <lastmod>2020-05-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.megapython.org/intermediate/logging/</loc>
+     <lastmod>2020-05-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.megapython.org/intermediate/intro-http/</loc>
+     <lastmod>2020-05-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.megapython.org/django/introduction/</loc>
+     <lastmod>2020-05-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.megapython.org/django/basics/virtual_environment/</loc>
+     <lastmod>2020-05-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.megapython.org/django/basics/installation/</loc>
+     <lastmod>2020-05-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.megapython.org/django/rest_framework/introduction/</loc>
+     <lastmod>2020-05-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://www.megapython.org/subscribe/</loc>
      <lastmod>2020-05-11</lastmod>
      <changefreq>daily</changefreq>
     </url>
